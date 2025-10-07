@@ -1,3 +1,5 @@
+<img width="2728" height="1532" alt="canary-packages-introducing" src="https://github.com/user-attachments/assets/eb8843d2-c0cd-4561-b152-b21a2c32d37d" />
+
 # canary-packages
 
 "Canary packages" are strategically deployed NPM packages that contain carefully crafted credentials, tokens, or payloads designed to trigger alerts when accessed by automated scanners or malicious actors. Similar to canaries in coal mines that warned miners of toxic gases, these packages serve as early warning systems that reveal who is monitoring the NPM ecosystem, what they're looking for, and their detection capabilities. 
