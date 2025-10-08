@@ -1,4 +1,4 @@
-![canary-packages-github-banner-1280-640](https://github.com/user-attachments/assets/e1ff54cd-1279-4dec-8a6c-6adf6befcc4c)
+![canary-packages-github-banner](images/canary-packages-github-banner-1280-640.jpg)
 
 # canary-packages
 
