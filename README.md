@@ -1,4 +1,4 @@
-<img width="2728" height="1532" alt="canary-packages-introducing" src="https://github.com/user-attachments/assets/eb8843d2-c0cd-4561-b152-b21a2c32d37d" />
+![canary-packages-github-banner-1280-640](https://github.com/user-attachments/assets/e1ff54cd-1279-4dec-8a6c-6adf6befcc4c)
 
 # canary-packages
 
